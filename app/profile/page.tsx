@@ -112,8 +112,8 @@ export default function ModernProfilePage() {
 
   return (
     <ProtectedRoute>
-      <div className="min-h-screen bg-background">
-        <div className="container mx-auto px-4 py-8">
+      <div className="min-h-screen max-w-7xl mx-auto px-4 py-8 space-y-8">
+        <div className="container">
           {/* Header */}
           <div className="mb-8 animate-fade-in">
             <h1 className="text-4xl font-bold gradient-text mb-2">Profile Settings</h1>
