@@ -19,7 +19,7 @@ This repository contains the **Next.js frontend**, providing an intuitive and re
 ## 🚀 Live Demo
 
 🔗 Access the deployed frontend here:  
-**[https://collabrix-frontend.vercel.app](https://collabrix-dev.vercel.app)**
+**[https://collabrix-dev.vercel.app](https://collabrix-dev.vercel.app)**
 
 ---
 
