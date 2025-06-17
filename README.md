@@ -41,7 +41,7 @@ Create a `.env.local` file in the root and add the following:
 NEXT_PUBLIC_API_BASE_URL=http://localhost:8081/api
 
 # For production (e.g., Render backend)
-# NEXT_PUBLIC_API_BASE_URL=https://collabrix-backend.onrender.com/api
+# NEXT_PUBLIC_API_BASE_URL=https://collabrix-backend.onrender.com
 ````
 
 > ⚠️ Do not commit `.env.local` to GitHub.
@@ -53,7 +53,7 @@ NEXT_PUBLIC_API_BASE_URL=http://localhost:8081/api
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Collabrix-Frontend.git
+git clone https://github.com/mehul515/Collabrix-Frontend.git
 cd Collabrix-Frontend
 ```
 
